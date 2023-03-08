@@ -32,3 +32,6 @@ This script deletetes my_first_directory in the /tmp/ directory
 
 10-back
 The script returns the user to the previous directory from the current one
+
+11-lists
+The script lists files including hidden ones in the long format beginning with the pwd, then the parent directory and finally the /boot/ directory
