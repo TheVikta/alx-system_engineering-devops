@@ -53,3 +53,11 @@ The script deletes all files in the current working directory that end with the 
 
 102-tree
 Script to create tree directories in the current directory
+
+103-commas
+The script list all the files and directories of the current directory, separated by commas
+directory names should end with a /
+Files and directories starting with a (.) should be listed
+The listing should be alpha ordered except for the directories . and .. which should be listed at the very beginning
+Only digits and letters are used to sorrt; Digits should come first
+The listing should end with a new line
