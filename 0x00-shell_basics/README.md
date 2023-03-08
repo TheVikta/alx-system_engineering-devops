@@ -61,3 +61,6 @@ Files and directories starting with a (.) should be listed
 The listing should be alpha ordered except for the directories . and .. which should be listed at the very beginning
 Only digits and letters are used to sorrt; Digits should come first
 The listing should end with a new line
+
+school.mgc
+The script is a school magic file that can be used with the command file to detect school data files. School data files always contain the string SCHOOL at offset 0
