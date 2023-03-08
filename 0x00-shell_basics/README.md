@@ -18,3 +18,5 @@ The script lists the contents including hidden system files in the long format
 5-listfilesdigitonly
 The script display the current directory contents in the long format, with user and group IDs displayed numerically and hidden files
 
+6-firstdirectory
+The script creates a directory named my_first_directory in the /tmp directory
