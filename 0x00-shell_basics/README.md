@@ -22,4 +22,7 @@ The script display the current directory contents in the long format, with user 
 The script creates a directory named my_first_directory in the /tmp directory
 
 7-movethatfile
-The script moves a file betty in the /tmp/ directory to the /tmp/my_first_directory 
+The script moves a file betty in the /tmp/ directory to the /tmp/my_first_directory
+
+8-firstdelete
+The script deletes the file betty in the /tmp/my_first_directory/ 
