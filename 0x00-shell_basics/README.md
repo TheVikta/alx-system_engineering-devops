@@ -14,3 +14,7 @@ The script list the files of the current directory in a long format
 
 4-listmorefiles
 The script lists the contents including hidden system files in the long format
+
+5-listfilesdigitonly
+The script display the current directory contents in the long format, with user and group IDs displayed numerically and hidden files
+
