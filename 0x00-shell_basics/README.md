@@ -35,3 +35,6 @@ The script returns the user to the previous directory from the current one
 
 11-lists
 The script lists files including hidden ones in the long format beginning with the pwd, then the parent directory and finally the /boot/ directory
+
+12-file_type
+The script displays the file type of iamafile at the root of the /tmp/ directory
