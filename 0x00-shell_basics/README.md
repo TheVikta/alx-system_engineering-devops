@@ -50,3 +50,6 @@ The Script moves all files in the current directory beginning with uppercase let
 
 101-clean_emacs
 The script deletes all files in the current working directory that end with the ~ character
+
+102-tree
+Script to create tree directories in the current directory
