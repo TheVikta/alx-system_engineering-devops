@@ -39,6 +39,8 @@ The script lists files including hidden ones in the long format beginning with t
 12-file_type
 The script displays the file type of iamafile at the root of the /tmp/ directory
 
+13-symbolic_link
+The script creates a symbolic link to /bin/ls named _ls_ in the current working directory
 
 14-copy_html
 This script copies all .html files from the current working directory to the parent directory
