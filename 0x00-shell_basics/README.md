@@ -6,5 +6,8 @@ The script prints the absolute path name of the current working directory.
 1-listit
 The script lists the content list of the current working directory
 
-2-bring_me_back_home
+2-bring_me_home
 The script returns the user to the $HOME directory when executed
+
+3-listfiles
+The script list the files of the current directory in a long format
