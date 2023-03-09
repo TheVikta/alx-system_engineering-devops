@@ -19,3 +19,5 @@ The script adds the owner of the file hello, execute permissions
 6-multiple_permissions
 The script adds execute permission to the owner and group owner, and read permissions to other users, to the file hello
 
+7-everybody
+The script adds execution permissions to the owner, group owner and other users, to the file hello
