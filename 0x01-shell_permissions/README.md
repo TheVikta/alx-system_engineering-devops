@@ -9,3 +9,6 @@ The script prints out all the groups the current user is part of
 
 3-new_owner
 The script changes the owner of the file hello to betty
+
+4-empty
+The script creates an empty file named hello
