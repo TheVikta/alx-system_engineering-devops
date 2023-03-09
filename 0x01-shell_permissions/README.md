@@ -24,3 +24,6 @@ The script adds execution permissions to the owner, group owner and other users,
 
 8-James_Bond
 The script sets permission to hello file as follows: nor rwx permisssion for ug, and rwx permission for o
+
+9-John_Doe
+The script sets the permissions -rwxr-x-wx for the file hello
