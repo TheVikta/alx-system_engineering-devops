@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo scown -R vincent:staff ./*
+sudo chown -R vincentt:staff ./*
