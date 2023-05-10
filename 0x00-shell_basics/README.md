@@ -2,3 +2,6 @@
 
 ## Where am I? ##
 > A script that prints the absolute path name of the current working directory.
+
+## 1. What’s in there? ##
+> A script to display the contents list of the current directory.  
