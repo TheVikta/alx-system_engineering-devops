@@ -8,3 +8,6 @@
 
 ## 2. There is no place like home ##
 > script that changes the working directory to the user’s home directory without the use of any shell variables
+
+## 3. The long format ##
+> A script to display current directory contents in a long format
