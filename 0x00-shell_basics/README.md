@@ -14,3 +14,9 @@
 
 ### 4. Hidden files ###
 > A script to display current directory contents, including hidden files (starting with .). Using the long format.
+
+### 5. I love numbers ###
+> A script that display current directory contents. 
+>	Long Format
+>	with user and group IDs displayed numerically
+>	And hidden files (starting with .)
