@@ -11,3 +11,6 @@
 
 ## 3. The long format ##
 > A script to display current directory contents in a long format
+
+### 4. Hidden files ###
+> A script to display current directory contents, including hidden files (starting with .). Using the long format.
