@@ -5,3 +5,6 @@
 
 ## 1. What’s in there? ##
 > A script to display the contents list of the current directory.  
+
+## 2. There is no place like home ##
+> script that changes the working directory to the user’s home directory without the use of any shell variables
